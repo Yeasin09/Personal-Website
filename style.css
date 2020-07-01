@@ -92,4 +92,9 @@ footer{
     text-decoration: none;
     color: white;
     margin: 8%;
+    
+}
+a:hover{
+    background-color: blueviolet;
+    color: cyan;
 }
